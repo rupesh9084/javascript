@@ -1,0 +1,16 @@
+#heading{
+    color: red;
+background-color: orange;
+
+}
+body{
+background-color: blue;
+}
+.abc{
+    height: 100px;
+    width: 100px;
+    border: ipx solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: orange;
+}
